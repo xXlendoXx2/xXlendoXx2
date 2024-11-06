@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Leandro</h1>
-<h3 align="center">A passionate full stack developer from Norway</h3>
+<h3 align="center">A passionate full stack developer and drifter from Norway</h3>
 
 - 🌱 I am currently learning **Python, SQL, GDscript, Lua**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1_djLSrKD3TYDtkCgAT34Nu_OhUd9zeaa/view?usp=drive_link)
@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/leandro-blanco-rivera-5056a1327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcLCdCLbBQaa68BmyjyirDA%3D%3D" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro blanco-rivera" height="30" width="40" />
   </a>
-  <a href="mailto:leo.b.rivera.07@gmail.com" style="font-size: 32px; text-decoration: none;">📫</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,4 +49,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="xxlendoxx2" /></p>
+
