@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer and drifter from Norway</h3>
 
 - 🌱 I am currently learning **Python, SQL, GDscript, Lua**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_djLSrKD3TYDtkCgAT34Nu_OhUd9zeaa/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1cf--CGLfwKIyJof_ahb4aZktRQlx1b7A/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
